@@ -1,6 +1,7 @@
 # Smart-Home-Surveillance-System-using-Machine-Learning
 
-Abstract :
+***Abstract :***
+
 Imagine Home surveillance cameras can monitor elderly parents and anticipate
 potential concerns while respecting their privacy.
 
@@ -20,8 +21,7 @@ from a digital image or a video frame against a database of faces.
 
 
 
-
-*About Application :*
+****About Application :****
 
 1.Safety and security are significant challenges facing modern society.
 
