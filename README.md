@@ -1,4 +1,4 @@
-# Smart-Home-Surveillance-System-using-Machine-Learning
+# Smart-Home-Surveillance-System-using-Artificial-Intelligence
 
 ***Abstract :***
 
